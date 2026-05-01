@@ -1,2 +1,2 @@
 # nurelo-releases
-Nurelo – öffentliche Release-Dateien für den Auto-Updater
+Versionierte Releases der Pflegesoftware Nurelo. Dient der Lieferung automatischer Updates für Kunden.
